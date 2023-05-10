@@ -1,0 +1,601 @@
+2023-05-01 17:39:55,980 WARNING  * Debugger is active!
+2023-05-01 17:39:55,993 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:39:58,508 INFO 127.0.0.1 - - [01/May/2023 17:39:58] "[35m[1mPOST /jobs/load HTTP/1.1[0m" 500 -
+2023-05-01 17:42:43,411 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:42:43,412 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:42:43,412 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:42:43,412 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:42:43,647 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:42:43,647 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:42:43,648 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:42:43,648 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:42:45,708 WARNING  * Debugger is active!
+2023-05-01 17:42:45,721 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:42:53,427 INFO 127.0.0.1 - - [01/May/2023 17:42:53] "[35m[1mPOST /jobs/load HTTP/1.1[0m" 500 -
+2023-05-01 17:44:12,896 INFO  * Detected change in 'c:\\users\\chuz\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2023-05-01 17:44:12,898 INFO  * Detected change in 'c:\\users\\chuz\\anaconda3\\Lib\\site-packages\\flask_restful\\__init__.py', reloading
+2023-05-01 17:44:12,901 INFO 127.0.0.1 - - [01/May/2023 17:44:12] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 17:44:14,919 WARNING  * Debugger is active!
+2023-05-01 17:44:14,930 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:44:33,856 INFO 127.0.0.1 - - [01/May/2023 17:44:33] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 17:45:11,465 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:45:11,466 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:45:11,466 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:45:11,466 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:45:11,721 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:45:11,722 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:45:11,722 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:45:11,723 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:45:11,954 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:45:11,955 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:45:11,955 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:45:11,956 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:45:14,062 WARNING  * Debugger is active!
+2023-05-01 17:45:14,074 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:45:16,358 INFO 127.0.0.1 - - [01/May/2023 17:45:16] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 17:48:40,965 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:48:40,965 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:48:40,966 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:48:40,966 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:48:41,164 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:48:41,165 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:48:41,165 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:48:41,165 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:48:41,456 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:48:41,456 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:48:43,120 WARNING  * Debugger is active!
+2023-05-01 17:48:43,132 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:48:48,365 INFO 127.0.0.1 - - [01/May/2023 17:48:48] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 17:48:51,842 INFO 127.0.0.1 - - [01/May/2023 17:48:51] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 17:48:58,059 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 17:48:58,059 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 17:48:58,070 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 17:48:59,603 WARNING  * Debugger is active!
+2023-05-01 17:48:59,616 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:50:01,108 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 17:50:01,108 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 17:50:01,119 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 17:50:02,566 WARNING  * Debugger is active!
+2023-05-01 17:50:02,578 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:50:25,299 INFO 127.0.0.1 - - [01/May/2023 17:50:25] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 17:50:27,439 INFO 127.0.0.1 - - [01/May/2023 17:50:27] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 17:51:10,806 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 17:51:10,806 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 17:51:10,817 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 17:51:12,320 WARNING  * Debugger is active!
+2023-05-01 17:51:12,332 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:52:28,869 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:52:28,870 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:52:28,871 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:52:28,871 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:52:29,932 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 17:52:31,768 WARNING  * Debugger is active!
+2023-05-01 17:52:31,781 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:53:35,409 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 17:53:35,409 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 17:53:35,425 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 17:53:37,345 WARNING  * Debugger is active!
+2023-05-01 17:53:37,357 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:54:27,266 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:27,266 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:27,267 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:27,267 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:27,783 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 17:54:29,501 WARNING  * Debugger is active!
+2023-05-01 17:54:29,514 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:54:29,608 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:29,609 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:29,616 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:30,164 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:30,164 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:30,170 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:30,325 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:30,326 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:30,326 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:30,327 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 17:54:30,693 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 17:54:32,349 WARNING  * Debugger is active!
+2023-05-01 17:54:32,361 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:54:52,373 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 17:54:52,373 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 17:55:50,225 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 17:55:50,226 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 17:56:04,786 INFO 127.0.0.1 - - [01/May/2023 17:56:04] "[35m[1mPOST /departments/load HTTP/1.1[0m" 201 -
+2023-05-01 17:56:07,460 INFO 127.0.0.1 - - [01/May/2023 17:56:07] "[35m[1mPOST /departments/load HTTP/1.1[0m" 201 -
+2023-05-01 17:56:11,506 INFO 127.0.0.1 - - [01/May/2023 17:56:11] "[35m[1mPOST /jobs/load HTTP/1.1[0m" 201 -
+2023-05-01 17:56:16,741 INFO 127.0.0.1 - - [01/May/2023 17:56:16] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 17:57:47,909 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 17:57:47,910 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 17:57:47,922 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 17:57:49,429 WARNING  * Debugger is active!
+2023-05-01 17:57:49,441 INFO  * Debugger PIN: 111-751-593
+2023-05-01 17:58:15,126 INFO 127.0.0.1 - - [01/May/2023 17:58:15] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:01:00,714 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:01:00,715 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:01:00,715 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:01:00,716 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:01:00,950 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:01:02,763 WARNING  * Debugger is active!
+2023-05-01 18:01:02,776 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:01:11,177 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:01:11,177 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:01:11,178 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:01:11,178 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:01:11,567 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:01:11,643 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:01:11,733 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:01:12,030 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:01:13,939 WARNING  * Debugger is active!
+2023-05-01 18:01:13,954 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:01:42,957 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 18:01:42,957 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 18:01:42,969 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:01:44,502 WARNING  * Debugger is active!
+2023-05-01 18:01:44,516 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:08:00,348 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 18:08:00,348 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 18:08:00,369 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:08:01,935 WARNING  * Debugger is active!
+2023-05-01 18:08:01,948 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:09:32,943 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 18:09:32,943 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 18:09:32,955 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:09:34,498 WARNING  * Debugger is active!
+2023-05-01 18:09:34,510 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:09:55,935 INFO 127.0.0.1 - - [01/May/2023 18:09:55] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:10:27,454 INFO 127.0.0.1 - - [01/May/2023 18:10:27] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:26:11,844 INFO 127.0.0.1 - - [01/May/2023 18:26:11] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:27:48,902 INFO 127.0.0.1 - - [01/May/2023 18:27:48] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:28:07,304 INFO 127.0.0.1 - - [01/May/2023 18:28:07] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:29:58,535 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:29:58,541 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:29:58,541 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:29:58,541 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:29:58,777 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:29:58,777 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:29:58,783 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:29:58,783 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:29:58,993 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:29:58,996 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:29:58,997 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:29:59,317 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:30:01,000 WARNING  * Debugger is active!
+2023-05-01 18:30:01,012 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:30:01,298 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,302 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,302 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,541 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,596 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,597 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,597 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,761 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,761 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,818 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,818 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,971 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,971 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:01,972 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:02,144 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:30:03,631 WARNING  * Debugger is active!
+2023-05-01 18:30:03,643 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:30:13,346 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:13,346 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:13,346 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:13,346 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:13,623 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:13,624 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:13,627 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:13,843 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:30:15,633 WARNING  * Debugger is active!
+2023-05-01 18:30:15,646 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:30:29,198 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:29,199 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:29,199 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:29,199 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:29,512 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:29,512 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:29,512 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:29,513 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\models.py', reloading
+2023-05-01 18:30:29,883 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:30:31,588 WARNING  * Debugger is active!
+2023-05-01 18:30:31,603 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:34:36,831 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 18:34:36,831 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 18:34:36,842 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:34:38,330 WARNING  * Debugger is active!
+2023-05-01 18:34:38,342 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:35:09,531 INFO 127.0.0.1 - - [01/May/2023 18:35:09] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:35:28,660 INFO 127.0.0.1 - - [01/May/2023 18:35:28] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:36:49,174 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:36:49,175 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:36:49,176 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:36:49,176 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:36:50,257 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:36:51,836 WARNING  * Debugger is active!
+2023-05-01 18:36:51,848 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:37:38,400 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:38,401 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:38,401 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:38,636 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:38,637 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:38,637 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:38,638 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:38,871 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:38,872 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:38,872 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:38,873 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:39,279 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:37:40,903 WARNING  * Debugger is active!
+2023-05-01 18:37:40,916 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:37:44,938 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:44,939 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:44,939 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:44,940 INFO  * Detected change in 'C:\\Users\\Chuz\\Documents\\Flask\\first_attempt\\app.py', reloading
+2023-05-01 18:37:45,069 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:37:46,713 WARNING  * Debugger is active!
+2023-05-01 18:37:46,725 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:38:19,606 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 18:38:19,607 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 18:38:19,617 INFO  * Restarting with watchdog (windowsapi)
+2023-05-01 18:38:21,154 WARNING  * Debugger is active!
+2023-05-01 18:38:21,166 INFO  * Debugger PIN: 111-751-593
+2023-05-01 18:38:29,954 INFO 127.0.0.1 - - [01/May/2023 18:38:29] "[35m[1mPOST /jobs/load HTTP/1.1[0m" 201 -
+2023-05-01 18:38:34,108 INFO 127.0.0.1 - - [01/May/2023 18:38:34] "[35m[1mPOST /departments/load HTTP/1.1[0m" 201 -
+2023-05-01 18:38:37,656 INFO 127.0.0.1 - - [01/May/2023 18:38:37] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:41:06,995 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 18:41:06,995 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 18:42:11,650 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 18:42:11,650 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 18:42:31,778 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 18:42:31,778 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 18:43:41,416 INFO 127.0.0.1 - - [01/May/2023 18:43:41] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:43:53,541 INFO 127.0.0.1 - - [01/May/2023 18:43:53] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:44:13,004 INFO 127.0.0.1 - - [01/May/2023 18:44:13] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:45:17,304 INFO 127.0.0.1 - - [01/May/2023 18:45:17] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:45:23,311 INFO 127.0.0.1 - - [01/May/2023 18:45:23] "[33mGET /Users/Chuz/Documents/Flask/first_attempt/historical_files/salmple.csv HTTP/1.1[0m" 404 -
+2023-05-01 18:45:23,642 INFO 127.0.0.1 - - [01/May/2023 18:45:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-05-01 18:45:49,461 INFO 127.0.0.1 - - [01/May/2023 18:45:49] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:46:06,522 INFO 127.0.0.1 - - [01/May/2023 18:46:06] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:52:47,045 INFO 127.0.0.1 - - [01/May/2023 18:52:47] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:54:08,999 INFO 127.0.0.1 - - [01/May/2023 18:54:08] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:54:31,176 INFO 127.0.0.1 - - [01/May/2023 18:54:31] "[35m[1mPOST /employees/load HTTP/1.1[0m" 201 -
+2023-05-01 18:54:44,221 INFO 127.0.0.1 - - [01/May/2023 18:54:44] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:59:15,410 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 18:59:15,411 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 18:59:19,849 INFO 127.0.0.1 - - [01/May/2023 18:59:19] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 18:59:52,098 INFO 127.0.0.1 - - [01/May/2023 18:59:52] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:01:24,717 INFO 127.0.0.1 - - [01/May/2023 19:01:24] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:01:25,933 INFO 127.0.0.1 - - [01/May/2023 19:01:25] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:02:27,665 INFO 127.0.0.1 - - [01/May/2023 19:02:27] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:02:28,628 INFO 127.0.0.1 - - [01/May/2023 19:02:28] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:03:31,521 INFO 127.0.0.1 - - [01/May/2023 19:03:31] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:03:36,946 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:03:36,947 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:03:40,115 INFO 127.0.0.1 - - [01/May/2023 19:03:40] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:04:15,944 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:04:15,944 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:04:20,148 INFO 127.0.0.1 - - [01/May/2023 19:04:20] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:05:59,915 INFO 127.0.0.1 - - [01/May/2023 19:05:59] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:06:00,892 INFO 127.0.0.1 - - [01/May/2023 19:06:00] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:06:06,279 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:06:06,279 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:06:17,116 INFO 127.0.0.1 - - [01/May/2023 19:06:17] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:09:08,521 INFO 127.0.0.1 - - [01/May/2023 19:09:08] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:09:11,100 INFO 127.0.0.1 - - [01/May/2023 19:09:11] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:09:18,113 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:09:18,114 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:09:20,423 INFO 127.0.0.1 - - [01/May/2023 19:09:20] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:09:37,533 INFO 127.0.0.1 - - [01/May/2023 19:09:37] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:09:48,096 INFO 127.0.0.1 - - [01/May/2023 19:09:48] "[35m[1mPOST /employees/load HTTP/1.1[0m" 201 -
+2023-05-01 19:11:27,416 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:11:27,416 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:11:29,825 INFO 127.0.0.1 - - [01/May/2023 19:11:29] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:13:22,747 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:13:22,747 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:13:25,018 INFO 127.0.0.1 - - [01/May/2023 19:13:25] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:13:26,204 INFO 127.0.0.1 - - [01/May/2023 19:13:26] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:13:46,924 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:13:46,924 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:13:49,088 INFO 127.0.0.1 - - [01/May/2023 19:13:49] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:15:55,551 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:15:55,551 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:15:57,082 INFO 127.0.0.1 - - [01/May/2023 19:15:57] "[35m[1mPOST /employees/load HTTP/1.1[0m" 201 -
+2023-05-01 19:15:58,738 INFO 127.0.0.1 - - [01/May/2023 19:15:58] "[35m[1mPOST /employees/load HTTP/1.1[0m" 201 -
+2023-05-01 19:17:29,271 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:17:29,271 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:17:32,186 INFO 127.0.0.1 - - [01/May/2023 19:17:32] "[35m[1mPOST /employees/load HTTP/1.1[0m" 201 -
+2023-05-01 19:24:52,095 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:24:52,095 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:24:57,970 INFO 127.0.0.1 - - [01/May/2023 19:24:57] "[35m[1mPOST /employees/load HTTP/1.1[0m" 201 -
+2023-05-01 19:28:45,085 INFO 127.0.0.1 - - [01/May/2023 19:28:45] "[35m[1mPOST /employees/load HTTP/1.1[0m" 201 -
+2023-05-01 19:29:13,022 INFO 127.0.0.1 - - [01/May/2023 19:29:13] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:32:45,427 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:32:45,428 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:32:47,401 INFO 127.0.0.1 - - [01/May/2023 19:32:47] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:32:50,151 INFO 127.0.0.1 - - [01/May/2023 19:32:50] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:33:07,850 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:33:07,850 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:33:12,820 INFO 127.0.0.1 - - [01/May/2023 19:33:12] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:33:14,135 INFO 127.0.0.1 - - [01/May/2023 19:33:14] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:34:31,295 INFO 127.0.0.1 - - [01/May/2023 19:34:31] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:34:41,022 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:34:41,022 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:34:43,594 INFO 127.0.0.1 - - [01/May/2023 19:34:43] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:34:47,478 INFO 127.0.0.1 - - [01/May/2023 19:34:47] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:36:40,114 INFO 127.0.0.1 - - [01/May/2023 19:36:40] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:36:41,308 INFO 127.0.0.1 - - [01/May/2023 19:36:41] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:36:42,636 INFO 127.0.0.1 - - [01/May/2023 19:36:42] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:36:57,573 INFO 127.0.0.1 - - [01/May/2023 19:36:57] "[35m[1mPOST /employees/load HTTP/1.1[0m" 201 -
+2023-05-01 19:37:34,964 INFO 127.0.0.1 - - [01/May/2023 19:37:34] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:39:25,783 INFO 127.0.0.1 - - [01/May/2023 19:39:25] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:39:32,809 INFO 127.0.0.1 - - [01/May/2023 19:39:32] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:40:04,699 INFO 127.0.0.1 - - [01/May/2023 19:40:04] "[35m[1mPOST /employees/load HTTP/1.1[0m" 201 -
+2023-05-01 19:40:13,600 INFO 127.0.0.1 - - [01/May/2023 19:40:13] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:41:11,381 INFO 127.0.0.1 - - [01/May/2023 19:41:11] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:41:49,639 INFO 127.0.0.1 - - [01/May/2023 19:41:49] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:41:50,846 INFO 127.0.0.1 - - [01/May/2023 19:41:50] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:44:33,089 INFO 127.0.0.1 - - [01/May/2023 19:44:33] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:44:39,152 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:44:39,153 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:44:41,544 INFO 127.0.0.1 - - [01/May/2023 19:44:41] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:46:10,464 INFO 127.0.0.1 - - [01/May/2023 19:46:10] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:46:32,527 INFO 127.0.0.1 - - [01/May/2023 19:46:32] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:47:02,224 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 19:47:02,224 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 19:47:11,252 INFO 127.0.0.1 - - [01/May/2023 19:47:11] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:49:20,470 INFO 127.0.0.1 - - [01/May/2023 19:49:20] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:50:13,680 INFO 127.0.0.1 - - [01/May/2023 19:50:13] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:50:26,551 INFO 127.0.0.1 - - [01/May/2023 19:50:26] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:50:32,264 INFO 127.0.0.1 - - [01/May/2023 19:50:32] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:50:37,647 INFO 127.0.0.1 - - [01/May/2023 19:50:37] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:51:05,734 INFO 127.0.0.1 - - [01/May/2023 19:51:05] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 19:51:54,472 INFO 127.0.0.1 - - [01/May/2023 19:51:54] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 20:02:49,212 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 20:02:49,212 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 20:02:54,485 ERROR {'error': '(psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "employee_pkey"\nDETAIL:  Key (id)=(1) already exists.\n\n[SQL: INSERT INTO employee (id, name, datetime, department_id, job_id) VALUES (%(id)s, %(name)s, %(datetime)s, %(department_id)s, %(job_id)s)]\n[parameters: {\'id\': \'1\', \'name\': \'Harold Vogt\', \'datetime\': datetime.datetime(2021, 11, 7, 2, 48, 42), \'department_id\': \'2\', \'job_id\': \'96\'}]\n(Background on this error at: https://sqlalche.me/e/14/gkpj)'}
+2023-05-01 20:02:54,486 INFO 127.0.0.1 - - [01/May/2023 20:02:54] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 20:03:03,779 ERROR Bad row 156: id                           157
+name             Kellia Barribal
+datetime                    None
+department_id                  4
+job_id                        61
+Name: 156, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:06,158 ERROR Bad row 662: id                        663
+name             Catha Gowrie
+datetime                 None
+department_id               4
+job_id                     85
+Name: 662, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:06,737 ERROR Bad row 788: id                           789
+name             Jennine Fakeley
+datetime                    None
+department_id                  2
+job_id                        94
+Name: 788, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:08,152 ERROR Bad row 1091: id                         1092
+name             Floria Bineham
+datetime                   None
+department_id                 7
+job_id                      137
+Name: 1091, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:08,162 ERROR Bad row 1094: id                        1095
+name             Lowell Blaber
+datetime                  None
+department_id                9
+job_id                     141
+Name: 1094, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:08,901 ERROR Bad row 1251: id                            1252
+name             Merrily Di Biaggi
+datetime                      None
+department_id                    7
+job_id                          19
+Name: 1251, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:09,226 ERROR Bad row 1322: id                    1323
+name             Erv Fazan
+datetime              None
+department_id            8
+job_id                  34
+Name: 1322, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:09,894 ERROR Bad row 1466: id                    1467
+name             Sully Huc
+datetime              None
+department_id            8
+job_id                 148
+Name: 1466, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:09,964 ERROR Bad row 1482: id                     1483
+name             Paco Ivain
+datetime               None
+department_id             5
+job_id                   41
+Name: 1482, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:10,897 ERROR Bad row 1685: id                       1686
+name             Bessy Oakeby
+datetime                 None
+department_id               4
+job_id                     53
+Name: 1685, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:11,334 ERROR Bad row 1779: id                           1780
+name             Annabelle Reilly
+datetime                     None
+department_id                   6
+job_id                         46
+Name: 1779, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:11,483 ERROR Bad row 1813: id                          1814
+name             Theodore Sammut
+datetime                    None
+department_id                  6
+job_id                        86
+Name: 1813, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:11,740 ERROR Bad row 1868: id                         1869
+name             Cesaro Solomon
+datetime                   None
+department_id                 6
+job_id                       66
+Name: 1868, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:12,000 ERROR Bad row 1924: id                     1925
+name             Cary Tothe
+datetime               None
+department_id             3
+job_id                  104
+Name: 1924, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:03:12,362 INFO 127.0.0.1 - - [01/May/2023 20:03:12] "[35m[1mPOST /employees/load HTTP/1.1[0m" 201 -
+2023-05-01 20:04:58,697 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 20:04:58,697 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 20:05:03,745 ERROR {'error': '(psycopg2.errors.ForeignKeyViolation) insert or update on table "employee" violates foreign key constraint "employee_department_id_fkey"\nDETAIL:  Key (department_id)=(2) is not present in table "department".\n\n[SQL: INSERT INTO employee (id, name, datetime, department_id, job_id) VALUES (%(id)s, %(name)s, %(datetime)s, %(department_id)s, %(job_id)s)]\n[parameters: {\'id\': \'1\', \'name\': \'Harold Vogt\', \'datetime\': datetime.datetime(2021, 11, 7, 2, 48, 42), \'department_id\': \'2\', \'job_id\': \'96\'}]\n(Background on this error at: https://sqlalche.me/e/14/gkpj)'}
+2023-05-01 20:05:03,746 INFO 127.0.0.1 - - [01/May/2023 20:05:03] "[35m[1mPOST /employees/load HTTP/1.1[0m" 500 -
+2023-05-01 20:05:09,643 INFO 127.0.0.1 - - [01/May/2023 20:05:09] "[35m[1mPOST /jobs/load HTTP/1.1[0m" 201 -
+2023-05-01 20:05:13,069 INFO 127.0.0.1 - - [01/May/2023 20:05:13] "[35m[1mPOST /departments/load HTTP/1.1[0m" 201 -
+2023-05-01 20:05:16,243 ERROR Bad row 156: id                           157
+name             Kellia Barribal
+datetime                    None
+department_id                  4
+job_id                        61
+Name: 156, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:18,651 ERROR Bad row 662: id                        663
+name             Catha Gowrie
+datetime                 None
+department_id               4
+job_id                     85
+Name: 662, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:19,242 ERROR Bad row 788: id                           789
+name             Jennine Fakeley
+datetime                    None
+department_id                  2
+job_id                        94
+Name: 788, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:20,646 ERROR Bad row 1091: id                         1092
+name             Floria Bineham
+datetime                   None
+department_id                 7
+job_id                      137
+Name: 1091, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:20,656 ERROR Bad row 1094: id                        1095
+name             Lowell Blaber
+datetime                  None
+department_id                9
+job_id                     141
+Name: 1094, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:21,369 ERROR Bad row 1251: id                            1252
+name             Merrily Di Biaggi
+datetime                      None
+department_id                    7
+job_id                          19
+Name: 1251, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:21,689 ERROR Bad row 1322: id                    1323
+name             Erv Fazan
+datetime              None
+department_id            8
+job_id                  34
+Name: 1322, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:22,387 ERROR Bad row 1466: id                    1467
+name             Sully Huc
+datetime              None
+department_id            8
+job_id                 148
+Name: 1466, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:22,459 ERROR Bad row 1482: id                     1483
+name             Paco Ivain
+datetime               None
+department_id             5
+job_id                   41
+Name: 1482, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:23,467 ERROR Bad row 1685: id                       1686
+name             Bessy Oakeby
+datetime                 None
+department_id               4
+job_id                     53
+Name: 1685, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:23,928 ERROR Bad row 1779: id                           1780
+name             Annabelle Reilly
+datetime                     None
+department_id                   6
+job_id                         46
+Name: 1779, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:24,084 ERROR Bad row 1813: id                          1814
+name             Theodore Sammut
+datetime                    None
+department_id                  6
+job_id                        86
+Name: 1813, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:24,374 ERROR Bad row 1868: id                         1869
+name             Cesaro Solomon
+datetime                   None
+department_id                 6
+job_id                       66
+Name: 1868, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:24,640 ERROR Bad row 1924: id                     1925
+name             Cary Tothe
+datetime               None
+department_id             3
+job_id                  104
+Name: 1924, dtype: object. Error: strptime() argument 1 must be str, not None
+2023-05-01 20:05:24,996 INFO 127.0.0.1 - - [01/May/2023 20:05:24] "[35m[1mPOST /employees/load HTTP/1.1[0m" 201 -
+2023-05-01 20:12:55,410 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 20:12:55,411 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 20:13:12,962 INFO 127.0.0.1 - - [01/May/2023 20:13:12] "[31m[1mGET /employees/load HTTP/1.1[0m" 405 -
+2023-05-01 20:13:20,623 ERROR Exception on /sample_query [GET]
+Traceback (most recent call last):
+  File "c:\users\chuz\anaconda3\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\chuz\anaconda3\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\chuz\anaconda3\lib\site-packages\flask_restful\__init__.py", line 271, in error_router
+    return original_handler(e)
+  File "c:\users\chuz\anaconda3\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\chuz\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+TypeError: sample_query() missing 1 required positional argument: 'id'
+2023-05-01 20:13:20,627 INFO 127.0.0.1 - - [01/May/2023 20:13:20] "[35m[1mGET /sample_query HTTP/1.1[0m" 500 -
+2023-05-01 20:15:02,124 ERROR Exception on /sample_query [GET]
+Traceback (most recent call last):
+  File "c:\users\chuz\anaconda3\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\chuz\anaconda3\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\chuz\anaconda3\lib\site-packages\flask_restful\__init__.py", line 271, in error_router
+    return original_handler(e)
+  File "c:\users\chuz\anaconda3\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\chuz\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+TypeError: sample_query() missing 1 required positional argument: 'id'
+2023-05-01 20:15:02,125 INFO 127.0.0.1 - - [01/May/2023 20:15:02] "[35m[1mGET /sample_query HTTP/1.1[0m" 500 -
+2023-05-01 20:15:13,583 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-01 20:15:13,583 INFO [33mPress CTRL+C to quit[0m
+2023-05-01 20:15:15,406 INFO 127.0.0.1 - - [01/May/2023 20:15:15] "GET /sample_query HTTP/1.1" 200 -

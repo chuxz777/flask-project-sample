@@ -1,0 +1,16 @@
+{
+    "Employee": {
+        "name": {"type": "String"},
+        "datetime": {"type": "Integer"},
+        "department_id": {"type": "String"},
+        "job_id": {"type": "String"}
+    },
+    "Department": {
+        "id": {"type": "Integer"},
+        "department": {"type": "String"}
+    },
+    "Job": {
+        "id": {"type": "Integer"},
+        "job": {"type": "String"}
+    }
+}
